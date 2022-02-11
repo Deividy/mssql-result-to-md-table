@@ -1,8 +1,9 @@
 {
     "name": "mssql-result-to-md-table",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Converts a MSSQL Result set into a markdown table, directly to stdout",
     "main": "mssql-result-to-md-table.js",
+    "bin": "./mssql-result-to-md-table.js",
     "dependencies": { },
     "devDependencies": { },
     "scripts": { },
