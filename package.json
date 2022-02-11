@@ -1,0 +1,23 @@
+{
+    "name": "mssql-result-to-md-table",
+    "version": "0.0.1",
+    "description": "Converts a MSSQL Result set into a markdown table, directly to stdout",
+    "main": "mssql-result-to-md-table.js",
+    "dependencies": { },
+    "devDependencies": { },
+    "scripts": { },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Deividy/mssql-result-to-md-table.git"
+    },
+    "keywords": [
+        "mssql result",
+        "markdown table"
+    ],
+    "author": "Deividy Metheler Zachetti <deividyz@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Deividy/mssql-result-to-md-table/issues"
+    },
+    "homepage": "https://github.com/Deividy/mssql-result-to-md-table"
+}
